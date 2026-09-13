@@ -1,4 +1,4 @@
--- Light theme for Textadept.
+-- leetch2 theme for Textadept
 
 local view, colors, styles = view, view.colors, view.styles
 
